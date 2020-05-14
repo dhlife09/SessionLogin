@@ -1,4 +1,4 @@
-<?php
+<?php 
 if(!isset($_POST['user_id']) || !isset($_POST['user_pw'])) exit;
 $user_id = $_POST['user_id'];
 $user_pw = $_POST['user_pw'];
